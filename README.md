@@ -6,7 +6,11 @@ Toon Hub is an interactive animation website built using **HTML, CSS, JavaScript
 - Smooth scrolling with **Locomotive.js**  
 - Advanced animations powered by **GSAP & ScrollTrigger**  
 - Responsive and optimized for all devices  
-- Interactive UI with fluid transitions  
+- Interactive UI with fluid transitions
+-  🎲 **Three.js effects** for 3D visuals  
+- 🎨 **Custom icons & Favicon** for branding  
+- 📱 **Responsive design** for all devices  
+- ⚡ **Optimized performance**  
 
 ## 🛠️ Technologies Used  
 - **HTML5**  
@@ -15,7 +19,8 @@ Toon Hub is an interactive animation website built using **HTML, CSS, JavaScript
 - **GSAP (GreenSock Animation Platform)**  
 - **ScrollTrigger (for scroll-based animations)**  
 - **Locomotive.js (for smooth scrolling effects)**  
-
+- **Three.js (for 3D elements and animations)**  
+- **Favicon Icons** (for better branding & UI experience)  
 ## 📷 Preview  
 ![Toon Hub Preview](link-to-your-screenshot.png)  
 
